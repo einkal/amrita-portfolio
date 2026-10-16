@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Amrita Singh — Staff Software Engineer</title>
+  <desc id="desc">A dark navy and teal banner for a portfolio focused on backend platforms, distributed systems and event-driven architecture.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#CFFAFE" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="360" rx="28" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity=".55">
+    <path d="M960 80L1080 145L1190 85L1310 150L1230 260L1080 230L960 285"/>
+    <path d="M1080 145L1080 230M1190 85L1230 260M1310 150L1230 260"/>
+    <circle cx="960" cy="80" r="8" fill="#5EEAD4"/><circle cx="1080" cy="145" r="8" fill="#93C5FD"/>
+    <circle cx="1190" cy="85" r="8" fill="#5EEAD4"/><circle cx="1310" cy="150" r="8" fill="#93C5FD"/>
+    <circle cx="1230" cy="260" r="8" fill="#5EEAD4"/><circle cx="1080" cy="230" r="8" fill="#93C5FD"/>
+    <circle cx="960" cy="285" r="8" fill="#5EEAD4"/>
+  </g>
+  <g fill="#E5F4FF" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="78" y="112" font-size="24" font-weight="700" letter-spacing="5" fill="#5EEAD4">ENGINEERING PORTFOLIO</text>
+    <text x="74" y="190" font-size="60" font-weight="800" letter-spacing="-1.8">Amrita Singh</text>
+    <text x="78" y="238" font-size="27" font-weight="600">Staff Software Engineer</text>
+    <text x="78" y="286" font-size="21" fill="#C7D2FE">Backend Platforms  •  Distributed Systems  •  Event Streaming</text>
+  </g>
+  <rect x="78" y="312" width="125" height="5" rx="3" fill="url(#accent)"/>
+</svg>
