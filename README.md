@@ -3,102 +3,91 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/einkal/amrita-portfolio/blob/main/Amrita_Singh_Resume.pdf">
-    <img alt="View Resume" src="https://img.shields.io/badge/Resume-View%20PDF-0F766E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
-  <a href="mailto:einkal4@gmail.com">
-    <img alt="Email Amrita" src="https://img.shields.io/badge/Contact-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/einkal">
-    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Profile-334155?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <strong>STAFF SOFTWARE ENGINEER · BENGALURU, INDIA</strong><br>
+  <sub>Distributed Systems &nbsp;·&nbsp; Data Platforms &nbsp;·&nbsp; Applied GenAI</sub>
 </p>
 
 <p align="center">
-  <strong>Staff Software Engineer at Walmart Global Tech</strong><br>
-  Distributed systems · Data platforms · GenAI integrations · Technical leadership
+  <a href="https://github.com/einkal/amrita-portfolio/blob/main/Amrita_Singh_Resume.pdf"><img alt="Resume PDF" src="https://img.shields.io/badge/RESUME-View%20PDF-10263d?style=for-the-badge"></a>
+  <a href="mailto:einkal4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/CONTACT-Email-267b70?style=for-the-badge"></a>
+  <a href="https://github.com/einkal"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-Profile-536779?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧭 Navigate
+## 01 / ABOUT
 
-<p align="center">
-  <a href="#-about-me">About</a> &nbsp;•&nbsp;
-  <a href="#-engineering-highlights">Impact</a> &nbsp;•&nbsp;
-  <a href="#-experience">Experience</a> &nbsp;•&nbsp;
-  <a href="#-technical-toolkit">Tech stack</a> &nbsp;•&nbsp;
-  <a href="#-education">Education</a> &nbsp;•&nbsp;
-  <a href="#-lets-connect">Contact</a>
-</p>
+# Building dependable systems at scale.
 
-## 👋 About me
+I’m **Amrita Singh**, a Staff Software Engineer with **14+ years of experience** building backend services, distributed systems, and event-driven platforms. At Walmart Global Tech, I work on Walmart Marketplace’s multi-channel notifications platform, delivering **100M+ notifications daily** to sellers, suppliers, and partners.
 
-I’m **Amrita Singh**, a Staff Software Engineer with **14+ years of experience** building backend services, distributed systems, and event-driven platforms. At Walmart Global Tech, I work on Walmart Marketplace’s multi-channel notifications platform, which delivers **100M+ notifications daily** to sellers, suppliers, and partners.
+My work spans platform architecture, stream processing, data migrations, production reliability, security, and cross-team technical leadership. More recently, I’ve contributed to applied GenAI integrations, including an MCP server and AI-agent workflow for webhook operations, and knowledge-base exposure through a RAG capability used by Marty, Walmart’s seller-facing AI assistant.
 
-My work combines hands-on engineering with platform architecture, production reliability, security, large-scale data migrations, and cross-team technical alignment. I also work on applied GenAI integrations, including MCP servers and AI-agent workflows for webhook operations, plus knowledge-base exposure through a RAG capability used by Marty, Walmart’s seller-facing AI assistant. I enjoy solving complex systems problems and building reusable capabilities that help engineering teams deliver services safely and consistently.
+> **Engineering focus:** Reliable platforms, clear technical trade-offs, reusable capabilities, and practical AI integrations.
 
-## ✨ Engineering highlights
+## 02 / SELECTED ENGINEERING WORK
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚦 100M+ notifications daily</h3>
-      Engineering on a high-volume, multi-channel marketplace notifications platform using Java, Spring Boot, Kafka and Apache Flink.
+      <h3>01 &nbsp; Marketplace notifications</h3>
+      <p>Engineering on a multi-channel, event-driven platform delivering <strong>100M+ notifications daily</strong> using Java, Spring Boot, Kafka and Apache Flink.</p>
+      <sub>JAVA · KAFKA · FLINK · SPRING BOOT</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🔁 ~7M subscriptions migrated</h3>
-      Contributed to subscription migration work completed within the planned quarter-end timeline.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 20+ Flink deployments</h3>
-      Extended shared-library support for workload identity adoption and helped plan a phased rollout across 30 workloads.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Production observability</h3>
-      Built notification dashboards covering five channels, including delivery funnels, failures, and p50/p95 latency.
+      <h3>02 &nbsp; Data migration</h3>
+      <p>Contributed to ETL and migration work across Azure SQL and Redis involving approximately <strong>7 million subscriptions</strong>.</p>
+      <sub>ETL · AZURE SQL · REDIS · VALIDATION</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 Architecture & collaboration</h3>
-      Serve as a platform design authority and work with architects, Principal Engineers, IAM, Product and partner teams on technical trade-offs.
+      <h3>03 &nbsp; Security & platform adoption</h3>
+      <p>Extended shared-library support for workload identity adoption and helped plan a phased rollout across 30 workloads, supporting 20+ Flink deployments.</p>
+      <sub>WORKLOAD IDENTITY · KUBERNETES · MTLS</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 GenAI: MCP & AI-agent workflows</h3>
-      Built and onboarded an MCP server with tool definitions and backend API calls for webhook management, plus an AI-agent workflow. A stakeholder demo led to a related product-intake item.
+      <h3>04 &nbsp; Production observability</h3>
+      <p>Built notification dashboards across five channels with delivery funnels, failure signals, and p50/p95 latency for production triage.</p>
+      <sub>OBSERVABILITY · INCIDENT RCA · LATENCY</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 &nbsp; MCP & AI-agent workflows</h3>
+      <p>Built and onboarded an MCP server with tool definitions and backend API calls for webhook management, plus an AI-agent workflow. A stakeholder demo led to a related product-intake item.</p>
+      <sub>MCP · BACKEND API INTEGRATION · AI AGENTS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 &nbsp; Seller knowledge through RAG</h3>
+      <p>Contributed to knowledge-base exposure and service/API integration for a RAG capability used by Marty to help sellers find answers about the Walmart ecosystem.</p>
+      <sub>RAG · KNOWLEDGE BASE · SERVICE INTEGRATION</sub>
     </td>
   </tr>
 </table>
 
-## 🧠 Applied GenAI work
+## 03 / APPLIED GENAI
 
-### MCP server & AI-agent workflow for webhook operations
-- Built and onboarded an MCP server with tool definitions and backend API calls to expose webhook-management capabilities to AI assistants.
-- Developed an AI-agent workflow for webhook notification operations. A stakeholder demo led to a related item being added to product intake.
+### MCP server — webhook operations
+- Developed an MCP server with tool definitions and backend API calls to expose webhook-management capabilities to AI assistants.
+- Developed an AI-agent workflow for webhook notification operations and demonstrated the solution to stakeholders.
 
-### Seller knowledge discovery through RAG
-- Contributed to knowledge-base exposure and service/API integration for a RAG capability used by Marty, Walmart’s seller-facing AI assistant.
-- The capability helps sellers discover answers about the Walmart ecosystem through an AI-assisted experience. My contribution focused on knowledge-base exposure and service/API integration, not building Marty end to end.
+### Seller knowledge discovery — RAG
+- Contributed to exposing the Walmart Marketplace knowledge base through a RAG capability used by Marty, Walmart’s seller-facing AI assistant.
+- Focused on knowledge-base exposure and service/API integration; this does not represent end-to-end ownership of Marty or its integration.
 
-## 💼 Experience
+## 04 / EXPERIENCE
 
 <details open>
   <summary><strong>Walmart Global Tech — Staff Software Engineer</strong> · February 2022–Present · Bengaluru</summary>
 
-  - Lead engineering on Walmart Marketplace’s event-driven notification platform, delivering 100M+ notifications a day.
-  - Serve as design authority and primary reviewer for platform-level architecture changes; align architects, Principal Engineers, IAM, Product and partner teams.
-  - Extended shared-library support for workload identity adoption across 20+ Flink deployments and helped plan the rollout across 30 workloads.
-  - Contributed to migration work involving approximately 7 million subscriptions, delivered within the planned quarter-end timeline.
+  - Lead engineering on Walmart Marketplace’s event-driven notification platform, delivering 100M+ notifications daily.
+  - Serve as a design authority and primary reviewer for platform-level architecture changes, aligning architects, Principal Engineers, IAM, Product and partner teams.
+  - Lead and support large-scale migrations, shared-library adoption, service security and production reliability.
   - Led root-cause analysis for high-visibility incidents by tracing issues across Kafka offsets, Flink job state and downstream delivery.
-  - Worked on Kubernetes and Istio migration, service-to-service security, HMAC webhook verification and shared platform library upgrades.
-  - Built a live notification-metrics dashboard covering five channels, with delivery funnels, failures and p50/p95 latency.
-  - Built and onboarded an MCP server with tool definitions and backend API calls for webhook management, and developed an AI-agent workflow for webhook notification operations.
-  - Contributed to exposing the Walmart Marketplace knowledge base through a RAG capability used by Marty, Walmart’s seller-facing AI assistant; my work focused on knowledge-base exposure and service/API integration.
+  - Built a live notification-metrics dashboard covering five channels, including delivery funnels, failures and p50/p95 latency.
+  - Built and onboarded an MCP server for webhook management and developed an AI-agent workflow; contributed to knowledge-base exposure and service/API integration for a RAG capability used by Marty.
 
-  <p><strong>Focus:</strong> Platform architecture, distributed systems, event streaming, migrations, production reliability, service security and engineering alignment.</p>
 </details>
 
 <details>
@@ -107,81 +96,73 @@ My work combines hands-on engineering with platform architecture, production rel
   - Developed Java and Spring Boot microservices and helped lead delivery of a web version of an Electron-based application.
   - Worked on secure inter-service communication, code signing, MQTT communication channels and deployment pipelines.
   - Built tooling to communicate with remote servers and run tools in non-GUI Linux environments.
+
 </details>
 
 <details>
   <summary><strong>Dell EMC (via JK Technosoft) — Software Engineer</strong> · December 2018–January 2020 · Bengaluru</summary>
 
-  Built and maintained a cross-platform troubleshooting desktop application using Angular, Node.js and Electron, including network validation, remote calls and secure execution features.
+  Built and maintained a cross-platform troubleshooting application using Angular, Node.js and Electron, including network validation, remote calls and secure execution features.
+
 </details>
 
 <details>
   <summary><strong>NIIT Ltd. — Senior TechMentor</strong> · October 2017–October 2018 · Kolkata</summary>
 
   Developed client-server applications and REST services using Spring, Hibernate, Angular and Node.js; trained developers in server-side technologies, architectures and design patterns.
+
 </details>
 
 <details>
   <summary><strong>NSCT — Associate Software Developer</strong> · August 2012–September 2017 · Kolkata</summary>
 
-  Worked on Java-based web applications, REST services, data modelling, SQL, and web interfaces.
+  Worked on Java-based web applications, REST services, data modelling, SQL and web interfaces.
+
 </details>
 
-## 🤖 Applied GenAI experience
+## 05 / TECHNICAL EXPERTISE
 
-- **MCP & AI agents:** Built and onboarded an MCP server with tool definitions and backend API calls for webhook-management capabilities; developed an AI-agent workflow for webhook notification operations.
-- **Seller knowledge & RAG:** Contributed to knowledge-base exposure and service/API integration for a RAG capability used by Marty, Walmart’s seller-facing AI assistant, to help sellers find answers about the Walmart ecosystem.
-- **Scope:** My contribution focused on the MCP implementation and the knowledge-base/service integration; I did not build the Marty assistant itself or claim end-to-end ownership of its integration.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend engineering</h3>
+      Java 8–21 · Spring Boot · Spring Security · Hibernate/JPA · REST APIs · Microservices
+    </td>
+    <td width="50%" valign="top">
+      <h3>Distributed systems</h3>
+      Apache Kafka · Apache Flink · Hadoop/YARN · Kafka Streams · RabbitMQ · MQTT
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Data platforms</h3>
+      Azure SQL · Cosmos DB · Redis · Elasticsearch/OpenSearch · MongoDB · ETL · Data validation
+    </td>
+    <td width="50%" valign="top">
+      <h3>Applied GenAI</h3>
+      MCP servers · Tool definitions · AI-agent workflows · RAG knowledge-base integration · LlamaIndex · OpenAI embeddings · Milvus
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cloud & delivery</h3>
+      Kubernetes · Docker · Istio/mTLS · Jenkins · CI/CD · Maven · Gradle · Git
+    </td>
+    <td width="50%" valign="top">
+      <h3>Security & reliability</h3>
+      HMAC/webhook authentication · API gateway policies · Incident RCA · Latency monitoring · Production hardening
+    </td>
+  </tr>
+</table>
 
-## 🧰 Technical toolkit
+## 06 / LEADERSHIP
 
-<p><strong>GenAI & applied AI</strong><br>
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-Tool%20Integration-0F766E?style=flat-square">
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-Knowledge%20Integration-2563EB?style=flat-square">
-  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-Workflow%20Integration-7C3AED?style=flat-square">
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-RAG-6B7280?style=flat-square">
-  <img alt="Milvus" src="https://img.shields.io/badge/Milvus-Vector%20Search-2563EB?style=flat-square">
-</p>
+- **Architecture with context:** Evaluate system changes against reliability, security, performance and operational cost.
+- **Cross-team alignment:** Work with architects, platform teams, IAM, Product and partner teams toward practical decisions.
+- **Production ownership:** Investigate failures across system boundaries and follow through on remediation.
+- **Engineer enablement:** Support shared capabilities, mentoring, onboarding and design reviews.
 
-<p><strong>Languages & backend</strong><br>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-4B8B3B?style=flat-square&logo=springsecurity&logoColor=white">
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square">
-  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square">
-</p>
-
-<p><strong>Streaming & distributed systems</strong><br>
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-  <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white">
-  <img alt="Kafka Streams" src="https://img.shields.io/badge/Kafka%20Streams-334155?style=flat-square">
-  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black">
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat-square">
-</p>
-
-<p><strong>Data, cloud-native & delivery</strong><br>
-  <img alt="Azure SQL" src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img alt="Cosmos DB" src="https://img.shields.io/badge/Cosmos%20DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Istio" src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
-</p>
-
-<details>
-  <summary><strong>More areas of practice</strong></summary>
-
-  - **Security:** HMAC/webhook authentication, API gateway policies, mTLS, code signing.
-  - **Reliability:** Incident RCA, delivery-failure investigation, latency monitoring and production hardening.
-  - **AI & integration:** MCP servers, AI agents and webhook integrations.
-  - **Frontend and application tooling:** JavaScript, TypeScript, Angular, Node.js and Electron.
-</details>
-
-## 🎓 Education
+## 07 / EDUCATION
 
 | Qualification | Institution | Year |
 |---|---|---|
@@ -189,22 +170,19 @@ My work combines hands-on engineering with platform architecture, production rel
 | Post Graduate Diploma in Computer Applications (PGDCA) | IGNOU | 2015 |
 | Bachelor of Computer Applications (BCA) | West Bengal University of Technology | 2009–2012 |
 
-## 🤝 Let's connect
+---
+
+## LET’S CONNECT
 
 <p align="center">
-  <a href="mailto:einkal4@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-einkal4%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/einkal">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-einkal-334155?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/einkal/amrita-portfolio/blob/main/Amrita_Singh_Resume.pdf">
-    <img alt="Resume PDF" src="https://img.shields.io/badge/Download-Resume%20PDF-0F766E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
+  <strong>Interested in backend platforms, distributed systems, data platforms and applied AI.</strong><br><br>
+  <a href="mailto:einkal4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Contact%20me-267b70?style=for-the-badge"></a>
+  <a href="https://github.com/einkal"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-einkal-536779?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/einkal/amrita-portfolio/blob/main/Amrita_Singh_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/RESUME-View%20PDF-10263d?style=for-the-badge"></a>
 </p>
 
-<p align="center"><sub>Built around practical engineering, thoughtful architecture, and reliable systems.</sub></p>
+<p align="center"><sub>Practical engineering · Thoughtful architecture · Reliable systems</sub></p>
 
 ---
 
-<sub>Note: The proposed Flink redesign and its throughput/operational improvements are projections, not measured production results. They are not presented as delivered outcomes here.</sub>
+<sub>Portfolio summaries are intentionally high-level and exclude confidential implementation details. Proposed redesigns and projected benefits are not represented as measured production outcomes.</sub>
