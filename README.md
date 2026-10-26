@@ -73,6 +73,16 @@ My work combines hands-on engineering with platform architecture, production rel
   </tr>
 </table>
 
+## 🧠 Applied GenAI work
+
+### MCP server & AI-agent workflow for webhook operations
+- Built and onboarded an MCP server with tool definitions and backend API calls to expose webhook-management capabilities to AI assistants.
+- Developed an AI-agent workflow for webhook notification operations. A stakeholder demo led to a related item being added to product intake.
+
+### Seller knowledge discovery through RAG
+- Contributed to knowledge-base exposure and service/API integration for a RAG capability used by Marty, Walmart’s seller-facing AI assistant.
+- The capability helps sellers discover answers about the Walmart ecosystem through an AI-assisted experience. My contribution focused on knowledge-base exposure and service/API integration, not building Marty end to end.
+
 ## 💼 Experience
 
 <details open>
