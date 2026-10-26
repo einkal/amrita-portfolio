@@ -116,7 +116,7 @@ My work combines hands-on engineering with platform architecture, production rel
 </details>
 
 <details>
-  <summary><strong>NIIT Ltd. — Software Developer & Technical Trainer</strong> · October 2017–October 2018 · Kolkata</summary>
+  <summary><strong>NIIT Ltd. — Senior TechMentor</strong> · October 2017–October 2018 · Kolkata</summary>
 
   Developed client-server applications and REST services using Spring, Hibernate, Angular and Node.js; trained developers in server-side technologies, architectures and design patterns.
 </details>
