@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>Staff Software Engineer at Walmart Global Tech</strong><br>
-  Backend platforms · Distributed systems · Event-driven architecture · Technical leadership
+  Distributed systems · Data platforms · GenAI integrations · Technical leadership
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 I’m **Amrita Singh**, a Staff Software Engineer with **14+ years of experience** building backend services, distributed systems, and event-driven platforms. At Walmart Global Tech, I work on Walmart Marketplace’s multi-channel notifications platform, which delivers **100M+ notifications daily** to sellers, suppliers, and partners.
 
-My work combines hands-on engineering with platform architecture, production reliability, security, large-scale migrations, and cross-team technical alignment. I enjoy solving complex systems problems and building reusable capabilities that help engineering teams deliver services safely and consistently.
+My work combines hands-on engineering with platform architecture, production reliability, security, large-scale data migrations, and cross-team technical alignment. I also work on applied GenAI integrations, including MCP servers and AI-agent workflows for webhook operations, plus knowledge-base exposure through a RAG capability used by Marty, Walmart’s seller-facing AI assistant. I enjoy solving complex systems problems and building reusable capabilities that help engineering teams deliver services safely and consistently.
 
 ## ✨ Engineering highlights
 
@@ -67,8 +67,8 @@ My work combines hands-on engineering with platform architecture, production rel
       Serve as a platform design authority and work with architects, Principal Engineers, IAM, Product and partner teams on technical trade-offs.
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI-assisted workflows</h3>
-      Built and onboarded an MCP server and an AI agent for webhook workflows; the demo led to a related product-intake item.
+      <h3>🤖 GenAI: MCP & AI-agent workflows</h3>
+      Built and onboarded an MCP server with tool definitions and backend API calls for webhook management, plus an AI-agent workflow. A stakeholder demo led to a related product-intake item.
     </td>
   </tr>
 </table>
@@ -85,7 +85,8 @@ My work combines hands-on engineering with platform architecture, production rel
   - Led root-cause analysis for high-visibility incidents by tracing issues across Kafka offsets, Flink job state and downstream delivery.
   - Worked on Kubernetes and Istio migration, service-to-service security, HMAC webhook verification and shared platform library upgrades.
   - Built a live notification-metrics dashboard covering five channels, with delivery funnels, failures and p50/p95 latency.
-  - Built and onboarded an MCP server and an AI agent for webhook workflows.
+  - Built and onboarded an MCP server with tool definitions and backend API calls for webhook management, and developed an AI-agent workflow for webhook notification operations.
+  - Contributed to exposing the Walmart Marketplace knowledge base through a RAG capability used by Marty, Walmart’s seller-facing AI assistant; my work focused on knowledge-base exposure and service/API integration.
 
   <p><strong>Focus:</strong> Platform architecture, distributed systems, event streaming, migrations, production reliability, service security and engineering alignment.</p>
 </details>
@@ -116,7 +117,21 @@ My work combines hands-on engineering with platform architecture, production rel
   Worked on Java-based web applications, REST services, data modelling, SQL, and web interfaces.
 </details>
 
+## 🤖 Applied GenAI experience
+
+- **MCP & AI agents:** Built and onboarded an MCP server with tool definitions and backend API calls for webhook-management capabilities; developed an AI-agent workflow for webhook notification operations.
+- **Seller knowledge & RAG:** Contributed to knowledge-base exposure and service/API integration for a RAG capability used by Marty, Walmart’s seller-facing AI assistant, to help sellers find answers about the Walmart ecosystem.
+- **Scope:** My contribution focused on the MCP implementation and the knowledge-base/service integration; I did not build the Marty assistant itself or claim end-to-end ownership of its integration.
+
 ## 🧰 Technical toolkit
+
+<p><strong>GenAI & applied AI</strong><br>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-Tool%20Integration-0F766E?style=flat-square">
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-Knowledge%20Integration-2563EB?style=flat-square">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-Workflow%20Integration-7C3AED?style=flat-square">
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-RAG-6B7280?style=flat-square">
+  <img alt="Milvus" src="https://img.shields.io/badge/Milvus-Vector%20Search-2563EB?style=flat-square">
+</p>
 
 <p><strong>Languages & backend</strong><br>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
