@@ -109,14 +109,20 @@ My work spans platform architecture, stream processing, data migrations, product
 <details>
   <summary><strong>NIIT Ltd. — Senior TechMentor</strong> · October 2017–October 2018 · Kolkata</summary>
 
-  Developed client-server applications and REST services using Spring, Hibernate, Angular and Node.js; trained developers in server-side technologies, architectures and design patterns.
+  - Developed client-server functionality for the Skill Map Engine using Spring, Hibernate, REST APIs, Maven and jQuery.
+  - Built secure, responsive single-page application features with Angular 5 and Node.js, integrating frontend components with backend REST services.
+  - Implemented web application functionality using JSON, RESTful APIs and Spring Security; worked in a test-driven development and CI/CD environment.
+  - Delivered technical training in Node.js, J2EE, application architecture, frameworks, design patterns and refactoring practices.
 
 </details>
 
 <details>
   <summary><strong>NSCT — Associate Software Developer</strong> · August 2012–September 2017 · Kolkata</summary>
 
-  Worked on Java-based web applications, REST services, data modelling, SQL and web interfaces.
+  - Contributed to three application areas: Profile & Resume Builder, an E-commerce Portal (DevOps), and a Collaboration Platform for blogs and forums.
+  - Developed Java web application features and responsive interfaces using JavaScript, AngularJS, Bootstrap, HTML5 and CSS3, connecting frontend experiences with backend services.
+  - Implemented role-based access functionality and helped turn UI designs and prototypes into working application features.
+  - Worked with relational database design, data modelling and SQL optimization, alongside Unix shell scripting and Agile/TDD practices.
 
 </details>
 
