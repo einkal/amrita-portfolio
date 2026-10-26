@@ -13,6 +13,23 @@
   <a href="https://github.com/einkal"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-Profile-536779?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <a href="#01--about">ABOUT</a> &nbsp;·&nbsp;
+  <a href="#02--selected-engineering-work">SELECTED WORK</a> &nbsp;·&nbsp;
+  <a href="#03--applied-genai">APPLIED GENAI</a> &nbsp;·&nbsp;
+  <a href="#04--experience">EXPERIENCE</a> &nbsp;·&nbsp;
+  <a href="#05--technical-expertise">EXPERTISE</a>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>100M+</h2><sub>NOTIFICATIONS / DAY</sub></td>
+    <td align="center" width="25%"><h2>14+</h2><sub>YEARS ENGINEERING</sub></td>
+    <td align="center" width="25%"><h2>10</h2><sub>ENGINEERS LED</sub></td>
+    <td align="center" width="25%"><h2>7M</h2><sub>SUBSCRIPTIONS MIGRATED</sub></td>
+  </tr>
+</table>
+
 ---
 
 ## 01 / ABOUT
